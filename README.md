@@ -1,6 +1,6 @@
 # Vanlab MQTT Client
 
-MQTT client written for the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884). using the [Silicognition PoE FeatherWing](https://silicognition.com/Products/poe-featherwing/).
+MQTT client written in C++ for the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) using the [Silicognition PoE FeatherWing](https://silicognition.com/Products/poe-featherwing/).
 
 ## Quick Start
 
